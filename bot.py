@@ -1,7 +1,7 @@
 import discord
 from memes import process_msg, name_of_file
 
-TOKEN = 'MTA2Njk4MzE4NzYxNzY5Mzc1Ng.GQqF_3.zagO715ajgWMviSRwIy3ljYzuJOt9-b0Fkt1do'
+TOKEN = ''
 
 client = discord.Client(intents=discord.Intents.all())
 
